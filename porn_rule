@@ -1,6 +1,6 @@
 DOMAIN,ahcdn.com,DIRECT
 DOMAIN-SUFFIX,sacdnssedge.com,DIRECT
-DOMAIN-SUFFIX,mmcdn.com,DIRECT
+DOMAIN-SUFFIX,live.mmcdn.com,DIRECT
 DOMAIN-SUFFIX,surrit.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,rebang.today,DIRECT
 DOMAIN-SUFFIX,xvideos-cdn.com,DIRECT
@@ -10,6 +10,6 @@ DOMAIN-SUFFIX,jiuse701.com,DIRECT
 DOMAIN-SUFFIX,pvvstream.pro,DIRECT
 DOMAIN-SUFFIX,cdn.jsdelivr.net,DIRECT
 DOMAIN-SUFFIX,xhcdn.com,DIRECT
-DOMAIN-SUFFIX,i.redd.it,DIRECT
 DOMAIN-SUFFIX,mycdn.me,DIRECT
-DOMAIN,gdmf.apple.com,DIRECT
+DOMAIN-SUFFIX,push.apple.com,DIRECT
+DOMAIN,time.apple.com,DIRECT
