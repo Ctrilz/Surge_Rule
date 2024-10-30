@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,ahcdn.com,DIRECT
 DOMAIN-SUFFIX,sacdnssedge.com,DIRECT
-DOMAIN-SUFFIX,mmcdn.com,DIRECT
+DOMAIN-SUFFIX,live.mmcdn.com,DIRECT
 DOMAIN-SUFFIX,surrit.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,rebang.today,DIRECT
 DOMAIN-SUFFIX,xvideos-cdn.com,DIRECT
