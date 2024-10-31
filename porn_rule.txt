@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,mycdn.me,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
 DOMAIN,time.apple.com,DIRECT
 DOMAIN,time.windows.com,DIRECT
+DOMAIN-SUFFIX,mirrors.vsean.net,DIRECT
