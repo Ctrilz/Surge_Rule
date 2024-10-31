@@ -15,4 +15,5 @@ DOMAIN-SUFFIX,push.apple.com,DIRECT
 DOMAIN,time.apple.com,DIRECT
 DOMAIN,time.windows.com,DIRECT
 DOMAIN-SUFFIX,mirrors.vsean.net,DIRECT
-DOMAIN-SUFFIX,doh.apad.pro,DIRECT
+DOMAIN-SUFFIX,ksyuncdn.com,DIRECT
+DOMAIN,gdmf.apple.com,DIRECT
