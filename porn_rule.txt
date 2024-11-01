@@ -17,3 +17,4 @@ DOMAIN,time.windows.com,DIRECT
 DOMAIN-SUFFIX,mirrors.vsean.net,DIRECT
 DOMAIN-SUFFIX,ksyuncdn.com,DIRECT
 DOMAIN,gdmf.apple.com,DIRECT
+DOMAIN-SUFFIX,post.smzdm.com,DIRECT
