@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,mirrors.vsean.net,DIRECT
 DOMAIN-SUFFIX,ksyuncdn.com,DIRECT
 DOMAIN,gdmf.apple.com,DIRECT
 DOMAIN-SUFFIX,post.smzdm.com,DIRECT
+IP-CIDR,192.168.3.1,DIRECT,no-resolve
+IP-CIDR,198.18.0.1,DIRECT,no-resolve
+
