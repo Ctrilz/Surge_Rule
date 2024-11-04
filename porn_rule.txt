@@ -2,10 +2,10 @@ DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-SUFFIX,live.mmcdn.com
 DOMAIN-SUFFIX,surrit.com
-DOMAIN,rebang.today
+DOMAIN-SUFFIX,rebang.today
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN,noodlemagazine.com
+DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,jiuse701.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-FUFFIX,cdn.jsdelivr.net
