@@ -8,10 +8,10 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,jiuse701.com
 DOMAIN-SUFFIX,pvvstream.pro
-DOMAIN-FUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,mycdn.me
-DOAMIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN,time.apple.com
 DOMAIN,time.windows.com
 DOMAIN-SUFFIX,mirrors.vsean.net
