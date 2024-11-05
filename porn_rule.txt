@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN,time.apple.com
-DOMAIN,time.windows.com
 DOMAIN-SUFFIX,mirrors.vsean.net
 DOMAIN-KEYWORD,ksyuncdn
 DOMAIN,gdmf.apple.com
