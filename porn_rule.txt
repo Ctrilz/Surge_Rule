@@ -17,4 +17,5 @@ DOMAIN-KEYWORD,ksyuncdn
 DOMAIN-KEYWORD,doppiocdn
 DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,post.smzdm.com
+DOMAIN-SUFFIX,pipecdn.vip
 
