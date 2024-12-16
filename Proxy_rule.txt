@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,highwebmedia.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN,missav.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN,services.googleapis.cn
