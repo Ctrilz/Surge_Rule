@@ -3,6 +3,17 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,highwebmedia.com
 DOMAIN,raw.githubusercontent.com
 DOMAIN,missav.com
+DOMAIN,www.blacked.com
+DOMAIN,www.blackedraw.com
+DOMAIN,www.tushy.com
+DOMAIN,www,tushyraw.com
+DOMAIN,www.deeper.com
+DOMAIN,hegre.com
+DOMAIN,i.redd.it
+DOMAIN,www.sexart.com
+DOMAIN,www.metart.com
+DOMAIN,www.thelifeerotic.com
+DOMAIN,www.dorcelvison.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,pornhub.com
