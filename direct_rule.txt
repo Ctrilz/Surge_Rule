@@ -19,3 +19,4 @@ DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,post.smzdm.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN,mtalk.google.com
+DOMAIN-SUFFIX,bulkcdn.top
