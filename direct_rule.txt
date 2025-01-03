@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,rebang.today
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
-DOMAIN-SUFFIX,jiuse701.com
+DOMAIN-KEYWORD,jiuse.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,xhcdn.com
