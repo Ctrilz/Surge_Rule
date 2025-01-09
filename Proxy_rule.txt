@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xhamster.com
+DOMAIN,xn--ngstr-lra8j.com
 DOMAIN,services.googleapis.cn
 DOMAIN,szshort.weixin.qq.com
 DOMAIN-SUFFIX,short.weixin.qq.com
