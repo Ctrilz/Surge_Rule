@@ -2,7 +2,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,highwebmedia.com
 DOMAIN,raw.githubusercontent.com
-DOMAIN,missav.com
+DOMAIN-KEYWORD,missav
 DOMAIN,www.blacked.com
 DOMAIN,www.blackedraw.com
 DOMAIN,www.tushy.com
