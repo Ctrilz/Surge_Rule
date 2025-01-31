@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,mirrors.vsean.net
 DOMAIN-KEYWORD,ksyuncdn
-DOMAIN-KEYWORD,doppiocdn
 DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,post.smzdm.com
 DOMAIN-SUFFIX,baidu.com
