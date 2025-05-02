@@ -20,3 +20,5 @@ DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,bulkcdn.top
 DOMAIN,int.alimamacloud1.com
 DOMAIN,cdn2.jiuse3.cloud
+DOMAIN-SUFFIX,btc760.com
+DOMAIN-SUFFIX,btc620.com
