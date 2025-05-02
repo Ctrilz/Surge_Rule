@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,rebang.today
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
-DOMAIN-KEYWORD,jiuse.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,xhcdn.com
@@ -19,3 +18,5 @@ DOMAIN-SUFFIX,post.smzdm.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,bulkcdn.top
+DOMAIN,int.alimamacloud1.com
+DOMAIN,cdn2.jiuse3.cloud
