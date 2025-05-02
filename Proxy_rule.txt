@@ -25,3 +25,4 @@ DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN,91porny.com
+DOMAIN,91porn.com
