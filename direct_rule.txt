@@ -22,3 +22,4 @@ DOMAIN,cdn2.jiuse3.cloud
 DOMAIN-SUFFIX,btc760.com
 DOMAIN-SUFFIX,btc620.com
 DOMAIN-SUFFIX,cdntrex.com
+DOMAIN-KEYWORD,doppiocdn
