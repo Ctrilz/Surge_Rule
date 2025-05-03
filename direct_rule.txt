@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-SUFFIX,live.mmcdn.com
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,rebang.today
-DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,pvvstream.pro
