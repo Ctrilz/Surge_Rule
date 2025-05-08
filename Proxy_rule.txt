@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN,91porny.com
 DOMAIN,91porn.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
