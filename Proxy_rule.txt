@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,highwebmedia.com
 DOMAIN,raw.githubusercontent.com
 DOMAIN-KEYWORD,missav
+DOMAIN-SUFFIX,dorcelvision.com
+DOMAIN-SUFFIX,porntrex.com
 DOMAIN,www.blacked.com
 DOMAIN,www.blackedraw.com
 DOMAIN,www.tushy.com
