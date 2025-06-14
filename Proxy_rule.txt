@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,highwebmedia.com
 DOMAIN,raw.githubusercontent.com
 DOMAIN-KEYWORD,missav
 DOMAIN-SUFFIX,dorcelvision.com
+DOMAIN-SUFFIX,dorcel.com
 DOMAIN-SUFFIX,porntrex.com
 DOMAIN,www.blacked.com
 DOMAIN,www.blackedraw.com
