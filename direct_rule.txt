@@ -1,4 +1,4 @@
-IP-CIDR,192.168.3.1/24,DIRECT,no-resolve
+IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-SUFFIX,live.mmcdn.com
