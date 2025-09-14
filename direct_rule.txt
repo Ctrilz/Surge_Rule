@@ -4,12 +4,12 @@ DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-SUFFIX,live.mmcdn.com
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,rebang.today
-#DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
-#DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,mirrors.vsean.net
