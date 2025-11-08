@@ -1,5 +1,6 @@
 IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
 DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-SUFFIX,live.mmcdn.com
 DOMAIN-SUFFIX,surrit.com
