@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,porntrex.com
 DOMAIN,www.blacked.com
 DOMAIN,www.blackedraw.com
 DOMAIN,www.tushy.com
-DOMAIN,www,tushyraw.com
+DOMAIN,www.tushyraw.com
 DOMAIN,www.deeper.com
 DOMAIN,hegre.com
 DOMAIN,i.redd.it
