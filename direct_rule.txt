@@ -48,3 +48,4 @@ DOMAIN,gcm-xmpp.googleapis.com
 DOMAIN,gcm-preprod.l.google.com
 DOMAIN,gcm-preprod.googleapis.com
 DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,livemediahost.com
