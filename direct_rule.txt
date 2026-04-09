@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,rebang.today
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,pvvstream.pro
+DOMAIN-SUFFIX,streamfastpro.com
+DOMAIN-SUFFIX,hls.live-video.net
+DOMAIN-SUFFIX,video-s.twimg.com
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,xhcdn.com
