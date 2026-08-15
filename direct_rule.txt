@@ -1,24 +1,19 @@
-DOMAIN-SUFFIX,ahcdn.com
-DOMAIN-SUFFIX,mushroomtrack.com
-DOMAIN-SUFFIX,sacdnssedge.com
-DOMAIN-SUFFIX,surrit.com
-DOMAIN-SUFFIX,streamfastpro.com
-DOMAIN-SUFFIX,hls.live-video.net
-DOMAIN-SUFFIX,alonestreaming.com
-DOMAIN-SUFFIX,cdn.jsdelivr.net
+#xhamster
 DOMAIN-SUFFIX,xhcdn.com
-DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,mirrors.vsean.net
-DOMAIN-KEYWORD,ksyuncdn
-DOMAIN-SUFFIX,post.smzdm.com
-DOMAIN-SUFFIX,bulkcdn.top
-DOMAIN,int.alimamacloud1.com
+
+#jabletv
+DOMAIN-SUFFIX,mushroomtrack.com
+
+#jiuse701
 DOMAIN,cdn2.jiuse3.cloud
+
+#91porn
 DOMAIN-SUFFIX,btc760.com
 DOMAIN-SUFFIX,btc620.com
+
+#porntrex
 DOMAIN-SUFFIX,cdntrex.com
-DOMAIN-KEYWORD,doppiocdn
-DOMAIN-SUFFIX,livemediahost.com
+DOMAIN-SUFFIX,pcdn.cloudswitches.com
 
 #Xvideos
 DOMAIN-SUFFIX,xvideos-cdn.com
@@ -32,3 +27,9 @@ DOMAIN-SUFFIX,pvvstream.pro
 
 #Chaturbate
 DOMAIN-SUFFIX,live.mmcdn.com
+
+#missav
+DOMAIN-SUFFIX,surrit.com
+
+#stripchat
+DOMAIN-KEYWORD,doppiocdn
